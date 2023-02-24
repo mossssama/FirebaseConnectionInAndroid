@@ -1,5 +1,5 @@
 # FirebaseConnectionInAndroid
-How to connect Firebase to you Android Project
+Creation of RealTime DB in Firebase
 
   ![Screenshot (808)](https://user-images.githubusercontent.com/92642692/221269040-fb822a76-293b-46bc-994b-ccbb1e09ab97.png)
   ![Screenshot (809)](https://user-images.githubusercontent.com/92642692/221269048-fd22d04c-0e91-450c-b403-e2bc8de12a47.png)
